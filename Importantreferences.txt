@@ -1,0 +1,2 @@
+Modifiers: https://www.w3schools.com/java/java_modifiers.asp
+Encapsulation: https://www.w3schools.com/java/java_encapsulation.asp
